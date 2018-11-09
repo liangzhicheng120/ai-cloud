@@ -1,4 +1,4 @@
-package com.ai.gategory;
+package com.ai.gateway;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -6,9 +6,9 @@ import org.springframework.cloud.netflix.zuul.EnableZuulProxy;
 
 @SpringBootApplication
 @EnableZuulProxy
-public class GategoryApplication {
+public class GatewayApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(GategoryApplication.class, args);
+        SpringApplication.run(GatewayApplication.class, args);
     }
 }
