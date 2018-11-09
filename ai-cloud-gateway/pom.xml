@@ -4,12 +4,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.ai</groupId>
-    <artifactId>gateway</artifactId>
+    <artifactId>gategory</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>gateway</name>
-    <description>入口</description>
+    <name>gategory</name>
+    <description>入口路由</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
@@ -73,5 +73,7 @@
             </plugin>
         </plugins>
     </build>
+
+
 
 </project>
