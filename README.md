@@ -1,5 +1,5 @@
 # **说明**：
-ai-cloud 基于微服务架构Spring Cloud搭建，才用呢动静分离设计，提供
+ai-cloud 基于微服务架构Spring Cloud搭建，采用动静分离设计，提供
 - 网关平台
 - 注册平台
 - 配置平台
@@ -21,8 +21,15 @@ ai-cloud 将会提供
 
 可依托于ai-cloud 构建服务化的企业级分布式业务能力共享平台，助理业务持续发展。
 
-
 # **架构**：
 [ai-cloud 设计架构图]
+
+# **支持**：
+
+可扫描下方的二维码支持作者，募集到的资金将用于购买GPU云服务器做模型训练，以便得到更精准的算法模型。
+
+# **声明**：
+
+如有意合作，请联系superzhicheng@foxmail.com 版权所有，违权必究 Liang 2019.02 https://github.com/liangzhicheng120
 
 
