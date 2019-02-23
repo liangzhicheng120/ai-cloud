@@ -27,8 +27,9 @@ ai-cloud 将会提供
 # **支持**：
 
 可扫描下方的二维码支持作者，募集到的资金将用于购买GPU云服务器做模型训练，以便得到更精准的算法模型。
-![微信](./img/微信.JPG)
-![支付宝](./img/支付宝.JPG)
+<img src="./img/微信.JPG" width="220px">
+&nbsp;&nbsp; 
+<img src="./img/支付宝.JPG" width="220px">
 
 # **声明**：
 
