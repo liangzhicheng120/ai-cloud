@@ -33,7 +33,7 @@
                         <a href="https://liangzhicheng.blog.csdn.net" target="_blank">
                             <el-dropdown-item>关于作者</el-dropdown-item>
                         </a>
-                        <a href="https://github.com/lin-xin/vue-manage-system" target="_blank">
+                        <a href="https://github.com/liangzhicheng120/ai-cloud/tree/master/ai-cloud-fronend" target="_blank">
                             <el-dropdown-item>项目仓库</el-dropdown-item>
                         </a>
                         <el-dropdown-item divided  command="loginout">退出登录</el-dropdown-item>
