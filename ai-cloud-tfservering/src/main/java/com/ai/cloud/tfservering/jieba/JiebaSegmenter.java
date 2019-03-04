@@ -24,7 +24,13 @@ public class JiebaSegmenter {
 
 
     public static enum SegMode {
+        /**
+         * 索引分词
+         */
         INDEX,
+        /**
+         * 搜索分词
+         */
         SEARCH
     }
 
